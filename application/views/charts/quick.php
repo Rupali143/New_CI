@@ -13,7 +13,8 @@
       // Callback that creates and populates a data table,
       // instantiates the pie chart, passes in the data and
       // draws it.
-      function drawChart() {  
+      function drawChart() {
+        
         // Create the data table.
         var data = new google.visualization.DataTable();
         
